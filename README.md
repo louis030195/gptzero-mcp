@@ -2,6 +2,24 @@
 
 MCP (Model Context Protocol) server for GPTZero AI detection API. Detect AI-generated text directly from Claude, ChatGPT, or any LLM that supports MCP.
 
+---
+
+<div align="center">
+
+### 💖 Support This Project
+
+**If you find this MCP server useful, please consider supporting its development!**
+
+[![Support via Stripe](https://img.shields.io/badge/Support-Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/5kQ14n1j3a347Q59a8)
+
+[**👉 Click here to support this project**](https://buy.stripe.com/5kQ14n1j3a347Q59a8)
+
+Your support helps maintain and improve this tool for everyone. Thank you! 🙏
+
+</div>
+
+---
+
 ## Features
 
 - 🤖 Detect AI-generated text with confidence scores
